@@ -1,0 +1,7 @@
+com\example\vms\model\Role.class
+com\example\vms\repository\UserRepository.class
+com\example\vms\VmsApplication.class
+com\example\vms\config\SecurityConfig.class
+com\example\vms\config\DataInitializer.class
+com\example\vms\model\User.class
+com\example\vms\security\JwtAuthenticationFilter.class
